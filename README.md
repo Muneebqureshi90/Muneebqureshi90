@@ -1,5 +1,5 @@
 <!-- LinkedIn Banner Image -->
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo3eHlqa2Y4YjJhYTRoNjY0N3NiYTRnaXdrdmQzNjlsOHR2ZTRmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif" alt="LinkedIn Banner" style="width: 100%; max-height: 250px; object-fit: cover;" />
+<img align="center" src="https://img.freepik.com/free-vector/software-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-illustration_107791-3131.jpg" alt="LinkedIn Banner" style="width: 100%; max-height: 250px; object-fit: cover;" />
 
 
 
