@@ -1,104 +1,168 @@
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/software-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-illustration_107791-3131.jpg" alt="Banner" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 10px;" />
-</div>
+<!-- Banner -->
+<img align="center" src="https://img.freepik.com/free-vector/software-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-illustration_107791-3131.jpg" alt="LinkedIn Banner" style="width: 100%; max-height: 250px; object-fit: cover;" />
 
 <h1 align="center">Hi 👋, I'm Muneeb Haider</h1>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;React+JS+%7C+React+Native;Open+Source+Enthusiast" alt="Typing SVG" />
+<h3 align="center">Full-Stack Developer | Java Spring Boot | React.js | Microservices | Automation Enthusiast</h3>
+
+<p align="center">
+  <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
+
+---
+
+# 📊 Profile Analytics (Advanced Dashboard)
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=muneebqureshi90&style=for-the-badge&color=1f6feb&label=PROFILE+VISITORS" />
+</p>
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/muneebqureshi90/count.svg" height="40" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=muneebqureshi90&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebqureshi90&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <!-- GitHub Skyline (3D Contribution Graph) -->
+  <a href="https://skyline.github.com/muneebqureshi90">
+    <img src="https://img.shields.io/badge/3D%20GitHub%20Skyline-Visit-ff8800?style=for-the-badge" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneebqureshi90&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="center">
-        <h3>🧐 About Me</h3>
-        <ul align="left">
-          <li>🌱 I’m currently learning <b>AWS Cloud, Kafka, Microservices</b></li>
-          <li>👨‍💻 All of my projects are available at <a href="https://muneebqureshi90.github.io/personal-website/">my personal website</a></li>
-          <li>💬 Ask me about <b>Spring Boot, Hibernate, React.js, and React Native</b></li>
-          <li>📫 How to reach me: <b>muneebhaider564@gmail.com</b></li>
-          <li>⚡ Fun fact: <b>I code until I run out of coffee ☕</b></li>
-        </ul>
-        <div align="center">
-          <a href="https://www.linkedin.com/in/muneeb-haider/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-          <a href="https://x.com/Muneebqureshi90" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-          <a href="https://stackoverflow.com/users/22597825/muneeb-qureshi" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-        </div>
-      </td>
-      <td valign="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlyeDV4czM3M3BlNDU1anpvOGR0a2pjeWE1eWR2bWw5dHVxZmN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
+# 🚀 About Me  
+I’m a **Full-Stack Developer** who loves turning complex systems into clean, scalable, and high-performance applications.  
+I enjoy understanding broken systems, fixing what others missed, and improving overall architecture.
+
+### 💡 Quick Overview  
+- 🌱 Exploring **AWS Cloud**, **Kafka**, **Docker**, **Kubernetes**, **Event-Driven Systems**  
+- 💼 Working on **ETG Signer Desktop App (PDF Signing App)**  
+- 🛠 Fixing **multi-language flows**, **backend message switching**, and **certificate update logic**  
+- 🔧 Known for **debugging deep issues**, rewriting broken modules, and optimizing performance  
+- 🧩 Strong at **collaboration, system redesign, feature upgrades, and workflow automation**  
+- 👨‍💻 Portfolio → **[My Website](https://muneebqureshi90.github.io/personal-website/)**  
+- 📫 Contact → **muneebhaider564@gmail.com**  
+- 😄 Fun fact → I add humor even in pull requests.
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
+# 🤝 Collaboration & Development Style  
+
+I am strongest when working with teams on:
+
+### ✔ Fixing Missing Features  
+Rebuilding incomplete or broken logic, rewriting old code, and stabilizing backend flows.
+
+### ✔ Improving Existing Features  
+Optimizing workflows, enhancing API logic, reducing complexity.
+
+### ✔ Understanding What Others Missed  
+I’m good at reading someone else’s code and catching hidden bugs.
+
+### ✔ Working on Live Production Systems  
+Performance tuning, monitoring, logging improvements.
+
+### ✔ Collaboration in Active Development  
+I handle:
+- Multi-language systems  
+- XML configurations  
+- Certificate engines  
+- Backend refactoring  
+- Logging + debugging frameworks  
+- API restructuring  
+- UI/UX logic polishing  
+- Modularity improvements  
+
+> **“I don’t just fix features — I rebuild them clean and future-proof.”**
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebqureshi90&show_icons=true&locale=en&theme=tokyonight" alt="muneebqureshi90" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebqureshi90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muneebqureshi90" />
-      </td>
-    </tr>
-  </table>
-</div>
+# 🔥 What I’m Working on Right Now  
+- 🌐 **3-Language Switching System (EN, TR, AR)**  
+- 🔃 **Certificate Update + Refresh Flow**  
+- 🧬 **Rewriting ETG Signer Backend Architecture**  
+- 🧹 **Refactoring Legacy Java Code**  
+- 🛡 **Improving XML reload safety**  
+- 📊 **Centralized debugging & monitoring**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebqureshi90&theme=tokyonight" alt="streak stats" />
-</div>
+---
 
-<br>
+# 🌟 Skill Stack (Modern, Clean, Badge Style)
 
-<h3 align="center">📈 Recent Activity & Collaboration</h3>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebqureshi90&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" width="100%" />
-</div>
+### 🧠 Core Technologies  
+`Java` `Spring Boot` `Microservices` `React.js` `React Native` `TypeScript`  
+`REST APIs` `JSON` `XML` `JWT` `OAuth2`  
 
-<br>
+### 🔧 System & DevOps  
+`Docker` `Linux` `Shell Scripting` `Maven` `Gradle`  
+`CI/CD` `GitHub Actions` `Nginx`  
 
-<h3 align="center">🐍 Contributions</h3>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneebqureshi90&theme=tokyonight" />
-</div>
+### ☁ Cloud Services  
+`AWS EC2` `S3` `RDS` `Lambda` `IAM`  
 
-<br>
+### 🛠 Additional Expertise  
+`Refactoring Legacy Systems`  
+`Architecture Debugging`  
+`Modular System Design`  
+`Team Collaboration`  
+`Performance Optimization`  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneebqureshi90&label=Profile%20views&color=0e75b6&style=flat-square" alt="muneebqureshi90" />
-</div>
+---
+
+# 🚀 My GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muneebqureshi90&show_icons=true&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebqureshi90&theme=react&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebqureshi90&layout=compact&theme=react&hide_border=true" height="150"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🔹 **ETG PDF Signer Desktop App**
+✔ Java-based XML Engine  
+✔ Multi-language system  
+✔ Certificate fetching system  
+✔ Debugging + logging  
+✔ Backend architecture cleanup  
+
+### 🔹 **Personal Portfolio Website**
+✔ Clean UI  
+✔ Responsive design  
+✔ Hosted on GitHub Pages  
+
+### 🔹 **React Native Market App**
+✔ Mobile UI  
+✔ State management  
+✔ API integration  
+
+---
+
+# 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/muneeb-haider/">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/22597825/muneeb-qureshi">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/muneebqureshi90">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
