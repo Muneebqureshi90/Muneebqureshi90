@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/muneebqureshi90/count.svg" height="40" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muneebqureshi90&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
@@ -140,6 +136,11 @@ I handle:
 ✔ Config Server for centralized management  
 ✔ Service Discovery & Load Balancing  
 
+### 🔹 **Coffee Shop System (Full Stack)**
+✔ **Front-End:** TypeScript based UI (coffee-front-end)  
+✔ **Back-End:** Java Spring Boot Logic (coffee-web-backend)  
+✔ Clean architecture & API integration  
+
 ### 🔹 **Smart Contact Manager (Spring)**
 ✔ Spring Boot & Thymeleaf  
 ✔ Secure User Authentication  
@@ -173,23 +174,51 @@ I handle:
 ### 🔹 **Lawyer Matcher & APK Hiring**
 ✔ Java & JavaScript Implementation  
 ✔ Service Matching Logic  
-✔ User Profiles & Booking  
+✔ User Profiles & Booking (lawyer-matcher, apk-lawyer-hiring)
+
+### 🔹 **Blogging Website**
+✔ Java-based Content Management  
+✔ Post Creation & Editing  
+✔ User Interaction Logic  
+
+### 🔹 **Employee Management System**
+✔ Java Backend (employee)  
+✔ Staff Record Management  
+✔ Database Integration  
+
+### 🔹 **Exam Microservice**
+✔ Java Microservice Architecture  
+✔ Exam Scheduling & Management  
+✔ Scalable Backend Logic  
 
 ### 🔹 **Social Login & Email Tools**
 ✔ **Easy Mail / Email Sender**: Java & JS based email automation  
 ✔ **Email Scanner**: Security & parsing tool  
-✔ **Social Login**: OAuth integration testing  
+✔ **Social Login**: OAuth integration testing (socaillogin)  
 
-### 📂 **Other Repositories**
-- **Task** (Java)
-- **Multi-Lang Flutter** (Dart)
-- **Nextcraft** (C++)
-- **Kafka Testing** (Java)
-- **Coffee Front-End & Backend** (TypeScript/Java)
-- **WeatherApp** (JavaScript)
-- **Blogging Website** (Java)
-- **Exam Microservice** (Java)
-- **Employee** (Java)
+### 🔹 **Task Management**
+✔ Java-based Task Organizer (Task)  
+✔ Workflow Tracking  
+
+### 🔹 **Kafka Testing**
+✔ Java Event-Driven Architecture  
+✔ Message Queue Implementation  
+✔ Real-time Data Streaming Tests  
+
+### 🔹 **Multi-Lang Flutter**
+✔ Dart/Flutter Cross-Platform App  
+✔ Internationalization Support  
+✔ Mobile UI Components  
+
+### 🔹 **Nextcraft**
+✔ C++ Development Project  
+✔ System Logic Implementation  
+✔ Performance Oriented  
+
+### 🔹 **WeatherApp**
+✔ JavaScript Weather Tracking  
+✔ API Integration for Forecasts  
+✔ Dynamic UI Updates  
 
 ---
 
