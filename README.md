@@ -1,4 +1,3 @@
-<!-- Banner -->
 <img align="center" src="https://img.freepik.com/free-vector/software-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-illustration_107791-3131.jpg" alt="LinkedIn Banner" style="width: 100%; max-height: 250px; object-fit: cover;" />
 
 <h1 align="center">Hi 👋, I'm Muneeb Haider</h1>
@@ -13,27 +12,22 @@
 # 📊 Profile Analytics (Advanced Dashboard)
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=muneebqureshi90&style=for-the-badge&color=1f6feb&label=PROFILE+VISITORS" />
 </p>
 
 <p align="center">
-  <!-- Visitor Counter -->
   <img src="https://profile-counter.glitch.me/muneebqureshi90/count.svg" height="40" />
 </p>
 
 <p align="center">
-  <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=muneebqureshi90&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebqureshi90&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <!-- GitHub Skyline (3D Contribution Graph) -->
   <a href="https://skyline.github.com/muneebqureshi90">
     <img src="https://img.shields.io/badge/3D%20GitHub%20Skyline-Visit-ff8800?style=for-the-badge" />
   </a>
@@ -46,14 +40,8 @@ I’m a **Full-Stack Developer** who loves turning complex systems into clean, s
 I enjoy understanding broken systems, fixing what others missed, and improving overall architecture.
 
 ### 💡 Quick Overview  
-- 🌱 Exploring **AWS Cloud**, **Kafka**, **Docker**, **Kubernetes**, **Event-Driven Systems**  
-- 💼 Working on **ETG Signer Desktop App (PDF Signing App)**  
-- 🛠 Fixing **multi-language flows**, **backend message switching**, and **certificate update logic**  
-- 🔧 Known for **debugging deep issues**, rewriting broken modules, and optimizing performance  
-- 🧩 Strong at **collaboration, system redesign, feature upgrades, and workflow automation**  
-- 👨‍💻 Portfolio → **[My Website](https://muneebqureshi90.github.io/personal-website/)**  
-- 📫 Contact → **muneebhaider564@gmail.com**  
-- 😄 Fun fact → I add humor even in pull requests.
+- 🌱 Exploring **AWS Cloud**, **Kafka**, **Docker**, **Kubernetes**, **Event-Driven Systems** - 💼 Working on **E-Tugra SCM app (PDF Signing App)** - 🛠 Fixing **multi-language flows**, **backend message switching**, and **certificate update logic** - 🔧 Known for **debugging deep issues**, rewriting broken modules, and optimizing performance  
+- 🧩 Strong at **collaboration, system redesign, feature upgrades, and workflow automation** - 👨‍💻 Portfolio → **[My Website](https://muneebqureshi90.github.io/personal-website/)** - 📫 Contact → **muneebhaider564@gmail.com** - 😄 Fun fact → I add humor even in pull requests.
 
 ---
 
@@ -89,12 +77,7 @@ I handle:
 ---
 
 # 🔥 What I’m Working on Right Now  
-- 🌐 **3-Language Switching System (EN, TR, AR)**  
-- 🔃 **Certificate Update + Refresh Flow**  
-- 🧬 **Rewriting ETG Signer Backend Architecture**  
-- 🧹 **Refactoring Legacy Java Code**  
-- 🛡 **Improving XML reload safety**  
-- 📊 **Centralized debugging & monitoring**
+- 🌐 **3-Language Switching System (EN, TR, AR)** - 🔃 **Certificate Update + Refresh Flow** - 🧬 **Rewriting E-Tugra SCM app Backend Architecture** - 🧹 **Refactoring Legacy Java Code** - 🛡 **Improving XML reload safety** - 📊 **Centralized debugging & monitoring**
 
 ---
 
@@ -135,7 +118,7 @@ I handle:
 
 # 📌 Featured Projects
 
-### 🔹 **ETG PDF Signer Desktop App**
+### 🔹 **E-Tugra SCM app**
 ✔ Java-based XML Engine  
 ✔ Multi-language system  
 ✔ Certificate fetching system  
