@@ -135,6 +135,62 @@ I handle:
 ✔ State management  
 ✔ API integration  
 
+### 🔹 **Hotel MicroServices & Config Server**
+✔ Java-based Microservices Architecture  
+✔ Config Server for centralized management  
+✔ Service Discovery & Load Balancing  
+
+### 🔹 **Smart Contact Manager (Spring)**
+✔ Spring Boot & Thymeleaf  
+✔ Secure User Authentication  
+✔ Contact Management System  
+
+### 🔹 **Crypto Coingecko Application**
+✔ Java Application  
+✔ Real-time Crypto Data Integration  
+✔ API Data Fetching  
+
+### 🔹 **Uber Clone**
+✔ JavaScript/React Native  
+✔ Map Integration  
+✔ Ride Booking Interface  
+
+### 🔹 **Voice Assistant App (Android)**
+✔ JavaScript/Android Integration  
+✔ Voice Command Processing  
+✔ Automation Logic  
+
+### 🔹 **Movie Website (TMDM Movies)**
+✔ JavaScript & API Integration  
+✔ Movie Database Fetching  
+✔ Dynamic UI Rendering  
+
+### 🔹 **Bank Application**
+✔ Java Backend Logic  
+✔ Transaction Management  
+✔ Secure Banking Features  
+
+### 🔹 **Lawyer Matcher & APK Hiring**
+✔ Java & JavaScript Implementation  
+✔ Service Matching Logic  
+✔ User Profiles & Booking  
+
+### 🔹 **Social Login & Email Tools**
+✔ **Easy Mail / Email Sender**: Java & JS based email automation  
+✔ **Email Scanner**: Security & parsing tool  
+✔ **Social Login**: OAuth integration testing  
+
+### 📂 **Other Repositories**
+- **Task** (Java)
+- **Multi-Lang Flutter** (Dart)
+- **Nextcraft** (C++)
+- **Kafka Testing** (Java)
+- **Coffee Front-End & Backend** (TypeScript/Java)
+- **WeatherApp** (JavaScript)
+- **Blogging Website** (Java)
+- **Exam Microservice** (Java)
+- **Employee** (Java)
+
 ---
 
 # 🌐 Connect With Me  
